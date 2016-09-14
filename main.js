@@ -12,6 +12,8 @@ assigneeForm.appendChild(input);
 	var userId = /\/u\/(\d+)/.exec(src)[1];
 	console.debug(avatar, userId);
 
+	avatar.setAttribute('aria-label', "Assign " + avatar.getAttribute('aria-label'));
+
 	avatar.href = '#';
 	avatar.addEventListener('click', function(event) {
 		// remove default inputs from modal (only created if user clicked it)
