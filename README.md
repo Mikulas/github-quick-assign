@@ -4,6 +4,12 @@
 
 ## How to install
 
+packaged version on store:
+
+https://chrome.google.com/webstore/detail/emfkdedbmlhpkabfcpmaoiiedkjolklh
+
+dev version:
+
 - Clone this repository
 - Go to the Chrome Extensions page (chrome://extensions)
 - Enable "Developer mode"
