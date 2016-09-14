@@ -1,0 +1,17 @@
+{
+  "name":             "GitHub quick issue assignment",
+  "version":          "1.0.0",
+  "homepage_url":     "https://github.com/mikulas/github-quick-assign",
+
+  "manifest_version": 2,
+
+  "description": "",
+
+  "content_scripts": [
+    {
+        "matches":  ["https://github.com/manGoweb/darujme/issues/*", "https://github.com/manGoweb/darujme/pull/*"],
+        "js":       ["main.js"],
+        "css":      ["style.css"]
+    }
+  ]
+}

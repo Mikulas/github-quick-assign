@@ -1,0 +1,13 @@
+div.split-content .epinr {
+  float: none;
+}
+
+div.split-content .item-teaser .labels li.download {
+  background-image: none;
+  padding: 0;
+}
+
+div.split-content .item-teaser .labels li.download a {
+  display: block;
+  padding: 4px 5px;
+}
