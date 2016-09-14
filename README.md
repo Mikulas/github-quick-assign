@@ -1,6 +1,6 @@
 # GitHub quick issue assignment
 
-![screenshot][./screenshot.png]
+![screenshot](screenshot.png)
 
 ## How to install
 
