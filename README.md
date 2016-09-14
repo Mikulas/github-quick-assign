@@ -1,5 +1,7 @@
 # GitHub quick issue assignment
 
+![screenshot][./screenshot.png]
+
 ## How to install
 
 - Clone this repository
