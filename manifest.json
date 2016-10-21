@@ -9,7 +9,7 @@
 
   "content_scripts": [
     {
-        "matches":  ["https://github.com/manGoweb/darujme/issues/*", "https://github.com/manGoweb/darujme/pull/*"],
+        "matches":  ["https://github.com/*/*/issues/*", "https://github.com/*/*/pull/*"],
         "js":       ["main.js"],
         "css":      ["style.css"]
     }
